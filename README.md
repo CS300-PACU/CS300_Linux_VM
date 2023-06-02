@@ -1,4 +1,4 @@
-# C_VSCode_Template
+# CS 300 Linux VM
 
 
 [Linux commands cheat sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
